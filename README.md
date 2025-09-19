@@ -89,5 +89,5 @@ GitHub Actions, Linux, AWS, Vercel, Cloudflare
 <h3 align="center">📫 DM ME</h3>
 <p align="center">
   Need an MVP in <b>7–21 days</b>? DM me — <b>I’ll Build Your Startup</b>.<br/>
-  <a href="https://t.me/Amad3i">Telegram</a> · <a href="https://twitter.com/amad3i">X</a> · <a href="mailto:IBuildYourStartup@gmail.com">Email</a> · <a href="./CV_EN.pdf">CV (PDF)</a>
+  <a href="https://t.me/Amad3i">Telegram</a> · <a href="https://twitter.com/amad3i">X</a> · <a href="mailto:IBuildYourStartup@gmail.com">Email</a> · <a href="./Amad3i%20CV.pdf">CV (PDF)</a>
 </p>
