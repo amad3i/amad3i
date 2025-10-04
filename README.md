@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&center=true&vCenter=true&width=640&duration=4000&color=70A5FD&background=0D1117&lines=Creator+%E2%80%A2+IndieHacker+%E2%80%A2+Psychonaut;Ecosystem+for+Exploring+the+Inner+Universe;Idea+%E2%80%A2+Design+%E2%80%A2+Code+%E2%80%A2+Release+%E2%80%A2+Repeat" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&center=true&vCenter=true&width=640&duration=4000&color=70A5FD&background=0D1117&lines=Creator+%E2%80%A2+IndieHacker+%E2%80%A2+Psychonaut;ThirdEye+-+Ecosystem+for+Exploring+the+Inner+Universe;Idea+%E2%80%A2+Design+%E2%80%A2+Code+%E2%80%A2+Release+%E2%80%A2+Repeat" alt="typing"/>
 
 </p>
 
