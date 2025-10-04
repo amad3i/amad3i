@@ -29,7 +29,7 @@
 
   <h2 align="center"><p>⚡Highlights</p></h2>
   
-  <h3 align="center">🧿 <b>Founder of ThirdEye</b> — Ecosystem for exploring the inner universe, connecting minds across dimensions</h3>
+  <h3 align="center">🧿 <b>ThirdEye</b> — Ecosystem for exploring the inner universe, connecting minds across dimensions</h3>
   <h3 align="center">🍄 <b>Psychedelic explorer</b> — 10+ years exploring consciousness, altered states, and architecture of the mind</h3>
   <h3 align="center">👨🏻‍💻 <b>Full-cycle engineer</b> — 7+ years in CS. Wizard of Digital Worlds, synthesis of aesthetics and logic</h3>
   <h3 align="center">🏕️ <b>Eternal nomad</b> — Backpacking, Camping, and Hitchhiking: Road as metaphor for life, trip, and freedom</h3>
