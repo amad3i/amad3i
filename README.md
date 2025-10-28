@@ -30,8 +30,8 @@
   <h2 align="center"><p>⚡Highlights</p></h2>
   
   <h3 align="center">🧿 <b>ThirdEye</b> — Ecosystem for exploring the inner universe and connecting minds across dimensions</h3>
-  <h3 align="center">🍄 <b>Psychedelic explorer</b> — 10+ years exploring consciousness, altered states, and architecture of the mind</h3>
   <h3 align="center">👨🏻‍💻 <b>Full-cycle engineer</b> — 7+ years in CS. Wizard of Digital Worlds, synthesis of aesthetics and logic</h3>
+  <h3 align="center">🍄 <b>Psychedelic explorer</b> — 10+ years exploring consciousness, altered states, and architecture of the mind</h3>
   <h3 align="center">🏕️ <b>Eternal nomad</b> — Backpacking, Camping, and Hitchhiking: Road as metaphor for life, trip, and freedom</h3>
   <h3 align="center">🌐 <b>Web3 enthusiast</b> — 5+ years crypto-only. Proponent of decentralization, p2p, and horizontal hierarchy</h3>
 
@@ -123,7 +123,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amad3i&theme=tokyonight&no-frame=true&margin-w=3&margin-h=5&column=3" width="47%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amad3i&theme=tokyonight&no-frame=true&margin-w=3&margin-h=5&column=3" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amad3i&theme=tokyonight&hide_border=true" width="50%"/> 
 </p>
 
