@@ -123,8 +123,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amad3i&theme=tokyonight&no-frame=true&margin-w=3&margin-h=5&column=3" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amad3i&theme=tokyonight&hide_border=true" width="50%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amad3i&theme=tokyonight&hide_border=true" width="98%"/> 
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amad3i&theme=tokyonight&no-frame=true&margin-w=3&margin-h=5&column=3" width="98%"/>
 </p>
 
 <p align="center">
