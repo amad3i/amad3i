@@ -71,7 +71,7 @@
   <h3>👓 XR & Game Development</h3>
 
   ```typescript
-    GameEngines: "Unity ("C#")" | "Unreal Engine (C++)";
+    GameEngines: "Unity (C#)" | "Unreal Engine (C++)";
     webGames: "PlayCanvas (JS)" | "PixiJS" | "Phaser (JS)" | "Cocos Creator (TS)";
     vr: "SteamVR" | "Oculus SDK";
     mobileAR: "AR Foundation" | "XR Interaction Toolkit" | "OpenXR" | "ARCore" | "ARKit" | "Vuforia";
