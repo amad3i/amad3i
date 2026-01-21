@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&center=true&vCenter=true&width=640&duration=3000&color=70A5FD&background=0D1117&lines=Want+to+Build+or+Fix+something%3F+I%E2%80%99ve+Got+You!;Available+for+New+Collaborations;Feel+free+to+DM+me+to+get+Started" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&center=true&vCenter=true&width=640&duration=3000&color=70A5FD&background=0D1117&lines=Want+to+Build+or+Fix+something%3F+I%E2%80%99ve+Got+You!;Available+for+New+Collaborations;Feel+free+to+DM+me+to+get+started" alt="typing"/>
   </p>
 </h3>
 
