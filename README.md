@@ -28,11 +28,11 @@
 
   <h2 align="center"><p>⚡Highlights</p></h2>
   
-  <h3 align="center">💻 <b>Sr. Software Engineer</b> — 7+ yr in CS. Designing and building reliable, scalable, secure systems</h3>
+  <h3 align="center">💻 <b>Sr. Software Engineer</b> — 7+yr in CS. Designing and building reliable, scalable, secure systems</h3>
   <h3 align="center">🧠 <b>Philosophy Researcher</b> — Exploring consciousness, altered states, and architecture of the mind</h3>
   <h3 align="center">🌐 <b>Web3 Enthusiast</b> — Crypto-only. Proponent of decentralization, p2p, and horizontal hierarchy</h3>
-  <h3 align="center">🔓 <b>Ethical Hacker</b> — 2+ yr Pentesting: finding vulns and detecting attack vectors before real hackers</h3>
-  <h3 align="center">🏕️ <b>Eternal nomad</b> — Backpacking, Camping, and Hitchhiking: Road as metaphor for life and freedom</h3>
+  <h3 align="center">🔓 <b>Ethical Hacker</b> — 2+yr Pentesting: finding vulns and detecting attack vectors before real hackers</h3>
+  <h3 align="center">🏕️ <b>Eternal Nomad</b> — Backpacking, Camping, and Hitchhiking: road as metaphor for life and freedom</h3>
   <h3 align="center">🎨 <b>Creator</b> — Piano, oil painting, fiction writing, filmmaking, content creation, gamedev, and more</h3>
 <hr/>
 
