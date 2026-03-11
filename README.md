@@ -88,9 +88,7 @@
 
    ```TypeScript
     languages: "Python" | "Go" | "JS/TS" | "C#/C++" | "Solidity" | "Bash";
-    tooling: "Burp Suite" | "nmap" | "ffuf" | "sqlmap" | "Subfinder" | "httpx" | "Impacket" | "CrackMapExec" | "hashcat" | "chisel";
-    webVulns: "SQLi" | "XSS" | "SSRF" | "LFI/RFI" | "IDOR" | "Path Traversal" | "RCE" | "Auth Bypass" | "Prototype Pollution";
-    web3Vulns: "Reentrancy" | "Access Control Misconfig" | "Arithmetic Overflow/Underflow" | "TX.origin Abuse"| "Unchecked External Call" | "Front‑running";
+    tooling: "Burp Suite" | "nmap" | "ffuf" | "sqlmap" | "Subfinder" | "Nikto" ;
    ```
  
  <h3>⚙️ DevOps & Infrastructure</h3>
