@@ -4,7 +4,8 @@
 
 <h3 align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&center=true&vCenter=true&width=640&duration=3000&color=70A5FD&background=0D1117&lines=Want+to+Build+or+Fix+something%3F+I%E2%80%99ve+Got+You!;Available+for+New+Collaborations;Feel+free+to+DM+me+to+get+started" alt="typing"/>
+     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&center=true&vCenter=true&width=640&duration=4000&color=70A5FD&background=0D1117&lines=Creator+%E2%80%A2+IndieHacker+%E2%80%A2+Psychonaut;ThirdEye+-+Ecosystem+for+Exploring+the+Inner+Universe;Idea+%E2%80%A2+Design+%E2%80%A2+Code+%E2%80%A2+Release+%E2%80%A2+Repeat" alt="typing"/>
+
   </p>
 </h3>
 
@@ -87,8 +88,12 @@
 <h3>🔓💻 Ethical Hacker / Cybersecurity Expert (RT/Pentest)</h3>
 
    ```TypeScript
-    languages: "Python" | "Go" | "JS/TS" | "C#/C++" | "Solidity" | "Bash";
-    tooling: "Burp Suite" | "nmap" | "ffuf" | "sqlmap" | "Subfinder" | "Nikto" ;
+    languages: ["Python", "Go", "JS/TS", "C#/C++", "Solidity", "Bash"]
+    web: ["Burp Suite", "ffuf", "sqlmap", "Nikto", "dalfox", "Arjun", "katana", "feroxbuster"]
+    recon: ["nmap", "Subfinder", "Amass", "httpx", "naabu", "dnsx", "gau", "masscan"]
+    ad_network: ["crackmapexec", "responder", "impacket", "bloodhound", "ldapsearch", "enum4linux", "kerbrute"]
+    passwords: ["hashcat", "hydra", "john", "medusa"]
+    post: ["linPEAS", "winPEAS", "pspy", "mimikatz"]
    ```
  
  <h3>⚙️ DevOps & Infrastructure</h3>
